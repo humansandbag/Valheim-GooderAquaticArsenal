@@ -1,0 +1,10 @@
+﻿{
+  "name": "GooderAquaticArsenal",
+  "description": "Customize your Valheim experience with dynamic underwater item usage.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/humansandbag/Valheim-GooderAquaticArsenal",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.20.3"
+  ]
+}
