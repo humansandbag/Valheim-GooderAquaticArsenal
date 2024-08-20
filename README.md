@@ -18,7 +18,7 @@ Like this mod? Development requires a lot of coffee. Support me by buying me a c
 - UseEquipmentInWater by LVH-IT
 
 ## How It Works
-- Items such-as weapons and tools no longer unequip
+- Items such-as weapons and tools no longer unequip while swimming
 - Server synced config settings give the admin the ability to specify which item types to allow while swimming
 
 ## Installation
