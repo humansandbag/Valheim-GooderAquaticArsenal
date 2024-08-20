@@ -16,6 +16,7 @@ Like this mod? Development requires a lot of coffee. Support me by buying me a c
 
 ### Incompatibilities
 - UseEquipmentInWater by LVH-IT
+- StartupAccelerator by Smoothbrain - The "Delay Patching" setting is incompatible. Set it to "Off" in the mods config.
 
 ## How It Works
 - Items such-as weapons and tools no longer unequip while swimming
