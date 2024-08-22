@@ -32,7 +32,7 @@ Like this mod? Development requires a lot of coffee. Support me by buying me a c
 5. Click 'Start Modded'
 
 ### Manual
-Copy `GooderAquaticArsenal.dll` folder to `<GameDirectory>/BepInEx/plugins`.
+Copy `GooderAquaticArsenal.dll` to `<GameDirectory>/BepInEx/plugins`.
 
 ## Changelog
 [GitHub Changelog](https://github.com/humansandbag/Valheim-GooderAquaticArsenal/blob/main/CHANGELOG.md)
