@@ -52,7 +52,7 @@ namespace GooderAquaticArsenal
     {
         public const string PluginGUID = "MainStreetGaming.GooderAquaticArsenal";
         public const string PluginName = "GooderAquaticArsenal";
-        public const string PluginVersion = "1.1.1";
+        public const string PluginVersion = "1.0.1";
 
         //Config values
         public static ConfigEntry<bool> _enableDebug;

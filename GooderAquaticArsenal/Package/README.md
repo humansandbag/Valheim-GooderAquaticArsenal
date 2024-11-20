@@ -16,9 +16,10 @@ Like this mod? Development requires a lot of coffee. Support me by buying me a c
 
 ### Incompatibilities
 - UseEquipmentInWater by LVH-IT
+- StartupAccelerator by Smoothbrain - The "Delay Patching" setting is incompatible. Set it to "Off" in the mods config.
 
 ## How It Works
-- Items such-as weapons and tools no longer unequip
+- Items such-as weapons and tools no longer unequip while swimming
 - Server synced config settings give the admin the ability to specify which item types to allow while swimming
 
 ## Installation
@@ -31,7 +32,7 @@ Like this mod? Development requires a lot of coffee. Support me by buying me a c
 5. Click 'Start Modded'
 
 ### Manual
-Copy `GooderAquaticArsenal.dll` folder to `<GameDirectory>/BepInEx/plugins`.
+Copy `GooderAquaticArsenal.dll` to `<GameDirectory>/BepInEx/plugins`.
 
 ## Changelog
 [GitHub Changelog](https://github.com/humansandbag/Valheim-GooderAquaticArsenal/blob/main/CHANGELOG.md)
