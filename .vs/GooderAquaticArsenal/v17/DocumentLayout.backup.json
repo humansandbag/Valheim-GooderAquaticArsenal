@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DEAF4438-8089-40ED-8175-398E1261D45B}|GooderAquaticArsenal\\GooderAquaticArsenal.csproj|solutionrelative:gooderaquaticarsenal\\gooderaquaticarsenal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEAF4438-8089-40ED-8175-398E1261D45B}|GooderAquaticArsenal\\GooderAquaticArsenal.csproj|c:\\users\\josh\\documents\\github\\valheim-gooderaquaticarsenal\\gooderaquaticarsenal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEAF4438-8089-40ED-8175-398E1261D45B}|GooderAquaticArsenal\\GooderAquaticArsenal.csproj|C:\\Users\\Josh\\Documents\\GitHub\\Valheim-GooderAquaticArsenal\\gooderaquaticarsenal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEAF4438-8089-40ED-8175-398E1261D45B}|GooderAquaticArsenal\\GooderAquaticArsenal.csproj|solutionrelative:gooderaquaticarsenal\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GooderAquaticArsenal.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\GitHub\\Valheim-GooderAquaticArsenal\\GooderAquaticArsenal\\GooderAquaticArsenal.cs",
+              "RelativeDocumentMoniker": "GooderAquaticArsenal\\GooderAquaticArsenal.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\GitHub\\Valheim-GooderAquaticArsenal\\GooderAquaticArsenal\\GooderAquaticArsenal.cs",
+              "RelativeToolTip": "GooderAquaticArsenal\\GooderAquaticArsenal.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA1wDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:30:30.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -31,19 +48,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T18:30:33.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GooderAquaticArsenal.cs",
-              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\GitHub\\Valheim-GooderAquaticArsenal\\GooderAquaticArsenal\\GooderAquaticArsenal.cs",
-              "RelativeDocumentMoniker": "GooderAquaticArsenal\\GooderAquaticArsenal.cs",
-              "ToolTip": "C:\\Users\\Josh\\Documents\\GitHub\\Valheim-GooderAquaticArsenal\\GooderAquaticArsenal\\GooderAquaticArsenal.cs",
-              "RelativeToolTip": "GooderAquaticArsenal\\GooderAquaticArsenal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T18:30:30.517Z",
               "EditorCaption": ""
             }
           ]

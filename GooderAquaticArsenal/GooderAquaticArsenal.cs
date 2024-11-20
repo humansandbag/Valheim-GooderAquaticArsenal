@@ -52,7 +52,7 @@ namespace GooderAquaticArsenal
     {
         public const string PluginGUID = "MainStreetGaming.GooderAquaticArsenal";
         public const string PluginName = "GooderAquaticArsenal";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.1.1";
 
         //Config values
         public static ConfigEntry<bool> _enableDebug;
@@ -60,6 +60,7 @@ namespace GooderAquaticArsenal
         public static ConfigEntry<bool> AllowBattleAxe;
         public static ConfigEntry<bool> AllowSword;
         public static ConfigEntry<bool> AllowBow;
+        public static ConfigEntry<bool> AllowCrossbow;
         public static ConfigEntry<bool> AllowAtgeir;
         public static ConfigEntry<bool> AllowKnife;
         public static ConfigEntry<bool> AllowMace;
@@ -150,6 +151,7 @@ namespace GooderAquaticArsenal
             AllowBattleAxe = Config.Bind("Server config", "AllowBattleAxe", true, new ConfigDescription("Allow Battle Axes while swimming", null, isAdminOnly));
             AllowSword = Config.Bind("Server config", "AllowSword", true, new ConfigDescription("Allow swords while swimming", null, isAdminOnly));
             AllowBow = Config.Bind("Server config", "AllowBow", true, new ConfigDescription("Allow bows while swimming", null, isAdminOnly));
+            AllowCrossbow = Config.Bind("Server config", "AllowCrossbow", true, new ConfigDescription("Allow crossbows while swimming", null, isAdminOnly));
             AllowAtgeir = Config.Bind("Server config", "AllowAtgeir", true, new ConfigDescription("Allow Atgeirs while swimming", null, isAdminOnly));
             AllowKnife = Config.Bind("Server config", "AllowKnife", true, new ConfigDescription("Allow Knives while swimming", null, isAdminOnly));
             AllowMace = Config.Bind("Server config", "AllowMace", true, new ConfigDescription("Allow Maces while swimming", null, isAdminOnly));
@@ -296,7 +298,8 @@ namespace GooderAquaticArsenal
                 { "_axe_", AllowAxe },
                 { "battleaxe", AllowBattleAxe },
                 { "sword", AllowSword },
-                { "bow", AllowBow },
+                { "_bow", AllowBow },
+                { "_crossbow_", AllowCrossbow },
                 { "atgeir", AllowAtgeir },
                 { "knife", AllowKnife },
                 { "mace", AllowMace },
