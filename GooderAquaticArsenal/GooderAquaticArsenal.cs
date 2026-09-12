@@ -33,7 +33,7 @@ namespace GooderAquaticArsenal
 {
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     [BepInDependency(Jotunn.Main.ModGuid)]
-    [NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.Minor)]
+    [NetworkCompatibility(CompatibilityLevel.ClientMustHaveMod, VersionStrictness.Minor)]
     [BepInIncompatibility("com.lvh-it.valheim.useequipmentinwater")]
 
 
@@ -52,7 +52,7 @@ namespace GooderAquaticArsenal
     {
         public const string PluginGUID = "MainStreetGaming.GooderAquaticArsenal";
         public const string PluginName = "GooderAquaticArsenal";
-        public const string PluginVersion = "1.0.1";
+        public const string PluginVersion = "1.0.2";
 
         //Config values
         public static ConfigEntry<bool> _enableDebug;
